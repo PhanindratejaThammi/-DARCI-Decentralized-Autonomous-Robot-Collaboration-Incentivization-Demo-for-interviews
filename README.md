@@ -34,8 +34,11 @@ This system demonstrates a secure, transparent, and efficient decentralized solu
 
 ▶️ [Watch the Final Output Video](#)  
 
+
+https://github.com/user-attachments/assets/5ac6f58c-8dd9-4346-9d96-c8c3481cb43d
+
+
 This video captures all aspects of the DARCI framework in action — from task allocation to contract generation, robot coordination, and dynamic incentivization.
-https://github.com/user-attachments/assets/a0f0e4f5-6ff2-44e4-a20e-61ca889151b2
 
 ## 🏆 Results
 
