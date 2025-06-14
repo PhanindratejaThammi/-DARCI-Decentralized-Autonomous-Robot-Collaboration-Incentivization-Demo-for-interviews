@@ -32,9 +32,6 @@ This system demonstrates a secure, transparent, and efficient decentralized solu
 
 ## 📽️ Final Output Video
 
-▶️ [Watch the Final Output Video](#)  
-
-
 https://github.com/user-attachments/assets/5ac6f58c-8dd9-4346-9d96-c8c3481cb43d
 
 
